@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Tahoma", "Lucida Grande","Verdana", "Arial", "sans-serif";
+}
+
+body {
+    color:#333333;
+    background-color: #F0F0F0;
+	line-height: 20px;
+    padding-top: 60px;
+}
+
+#headline {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.score-column {
+		width: 200px;
+}
